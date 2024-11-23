@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChadwickNFT/static/css/main.6fd25d0e.css",
+    "main.js": "/ChadwickNFT/static/js/main.c3025fd8.js",
+    "index.html": "/ChadwickNFT/index.html",
+    "main.6fd25d0e.css.map": "/ChadwickNFT/static/css/main.6fd25d0e.css.map",
+    "main.c3025fd8.js.map": "/ChadwickNFT/static/js/main.c3025fd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd25d0e.css",
+    "static/js/main.c3025fd8.js"
+  ]
+}
